@@ -1,8 +1,8 @@
 class Location {
   String? name;
-  int? phone;
-  int? latitude;
-  int? longitude;
+  String? phone;
+  double? latitude;
+  double? longitude;
 
   Location({this.name, this.phone, this.latitude, this.longitude});
 
