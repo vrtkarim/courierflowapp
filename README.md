@@ -1,33 +1,7 @@
 # CourierFlow Mobile Delivery Application
 
-CourierFlow is a robust, feature-rich mobile application designed for couriers and delivery personnel to streamline package deliveries with optimized routes, real-time tracking, and digital package management.
+check the backend made using spring  boot : repo : https://https://github.com/vrtkarim/courierflow
 
-## 📱 Features
-
-### Authentication
-- Secure JWT token-based authentication
-- User credentials management with local secure storage
-- Clean, intuitive login interface
-
-### QR Code Package Scanning
-- High-performance QR code scanning for package tracking
-- Real-time package validation against backend
-- Swipe-up panel showing scanned locations
-
-### Intelligent Route Navigation
-- GPX data visualization with optimized routes using Dijkstra's algorithm
-- Turn-by-turn navigation with distance calculations
-- Real-time location tracking
-- Custom map markers for delivery points
-
-### User Profile Management
-- Profile information display
-- Delivery history tracking
-- Performance statistics
-
-### Offline Capability
-- Local data storage for continuous operation in low-connectivity areas
-- Automatic synchronization when connectivity is restored
 
 ## 📸 Screenshots
 
