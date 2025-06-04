@@ -3,7 +3,7 @@
 check the backend made using spring  boot : repo : https://github.com/vrtkarim/courierflow
 
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Login Screen
 <p align="center">
@@ -51,50 +51,9 @@ The navigation map displays the courier's current location (represented by the d
 - Custom map markers for improved visibility
 - Route visualization with polylines
 
-## 📋 Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/courierflow.git
-   ```
 
-2. Navigate to the project directory:
-   ```
-   cd courierflow
-   ```
-
-3. Install dependencies:
-   ```
-   flutter pub get
-   ```
-
-4. Run the app in debug mode:
-   ```
-   flutter run
-   ```
-
-## 🚀 Deployment
-
-### Android
-1. Build the release APK:
-   ```
-   flutter build apk --release
-   ```
-
-2. The APK will be available at:
-   ```
-   build/app/outputs/flutter-apk/app-release.apk
-   ```
-
-### iOS
-1. Build the release IPA:
-   ```
-   flutter build ios --release
-   ```
-
-2. Use Xcode to archive and distribute the app.
-
-## 📊 Future Enhancements
+##  Future Enhancements
 
 - **Real-time Analytics**: Detailed delivery performance metrics
 - **Multi-language Support**: Localization for international use
@@ -102,7 +61,7 @@ The navigation map displays the courier's current location (represented by the d
 - **Batch Scanning**: Multiple package scanning capability
 - **Customer Signature Collection**: Digital proof of delivery
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
