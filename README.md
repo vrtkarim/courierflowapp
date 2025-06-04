@@ -1,6 +1,6 @@
 # CourierFlow Mobile Delivery Application
 
-check the backend made using spring  boot : repo : https://https://github.com/vrtkarim/courierflow
+check the backend made using spring  boot : repo : https://github.com/vrtkarim/courierflow
 
 
 ## 📸 Screenshots
